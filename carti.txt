@@ -1,0 +1,6 @@
+2,Baltagul,roman traditional,Mihail Sadoveanu
+3,Ion,roman roamnesc modern,Liviu Rebreanu
+4,Enigma Otiliei,roman de dragoste si parvenire,George Calinescu
+1,Mara,Povesti,Ioan Slavici
+9,Harap Alb,basm,Ion Creanga
+10,sd,sd,sd

@@ -1,0 +1,10 @@
+1,1,1,Mara
+2,1,2,Baltagul
+3,2,1,Mara
+4,2,2,Baltagul
+5,3,3,Ion
+6,4,4,Enigma Otiliei
+7,5,1,Mara
+8,1,3,Ion
+9,1,4,Enigma Otiliei
+10,2,4,Enigma Otiliei
